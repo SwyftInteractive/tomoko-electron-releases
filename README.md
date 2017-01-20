@@ -1,2 +1,2 @@
 # tomoko-electron-releases
-v0.3.0-beta
+v0.3.1-beta
