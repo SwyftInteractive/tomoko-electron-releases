@@ -1,2 +1,2 @@
 # tomoko-electron-releases
-v1.0.7
+v1.0.10
